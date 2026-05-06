@@ -1,0 +1,53 @@
+# Unreal Engine generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Build artifacts
+Build/
+*.target
+*.modules
+*.version
+
+# Visual Studio / Rider / IDE files
+.vs/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.user
+*.userosscache
+*.sln.docstates
+
+# Compiled object and binary files
+*.obj
+*.pdb
+*.ilk
+*.lib
+*.dll
+*.exe
+*.app
+*.dSYM/
+
+# Logs and crash dumps
+*.log
+*.tmp
+*.dmp
+*.mdmp
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Keep source project assets/config tracked:
+# Config/
+# Content/
+# Plugins/
+# Source/
+# *.uproject
